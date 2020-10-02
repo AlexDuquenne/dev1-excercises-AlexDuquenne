@@ -7,7 +7,7 @@ window.onresize = drawOrange;
 //drawRect();
 //drawArc();
 //drawEllipse();
-drawOrange();
+//drawOrange();
 
 // alert box "hello" en "multimedia"
 function sayHelloMultimedia() {
